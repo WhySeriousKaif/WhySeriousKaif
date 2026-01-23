@@ -142,10 +142,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
 <p align="center">
-  <i>✨ Open to collaboration on interesting projects! Feel free to reach out. ✨</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
