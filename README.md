@@ -171,6 +171,18 @@ Check out my interactive developer portfolio with live video demos, terminal set
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhySeriousKaif&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
+<br />
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhySeriousKaif/portfolio/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhySeriousKaif/portfolio/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/WhySeriousKaif/portfolio/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 🎯 Current Focus
