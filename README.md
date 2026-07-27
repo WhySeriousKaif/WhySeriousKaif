@@ -146,17 +146,23 @@ Explore my interactive developer portfolio featuring terminal setups, tech stack
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhySeriousKaif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kaif's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhySeriousKaif&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WhySeriousKaif&show_icons=true&theme=tokyonight&hide_border=true" alt="Kaif's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WhySeriousKaif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhySeriousKaif&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=WhySeriousKaif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhySeriousKaif&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
