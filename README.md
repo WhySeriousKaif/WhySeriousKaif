@@ -42,7 +42,7 @@
 
 Explore my interactive developer portfolio featuring terminal setups, tech stack orbits, and live project demos:
 
-👉 **[portfolio-seven-xi-68.vercel.app](https://whyseriouskaif.vercel.app/)**
+👉 **[https://whyseriouskaif.vercel.app/](https://whyseriouskaif.vercel.app/)**
 
 ---
 
