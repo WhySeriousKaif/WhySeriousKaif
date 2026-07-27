@@ -1,8 +1,14 @@
 <div align="center">
   <h1>👋 Hi, I'm <a href="https://github.com/WhySeriousKaif">MD Kaif Molla</a></h1>
-  <h3>Full-Stack & GenAI Software Engineer | Java • Spring Boot • React • RAG Architectures</h3>
-  <p>Dual CS Student @ <b>Scaler School of Technology</b> & <b>BITS Pilani</b> | Bengaluru, India 📍</p>
+  
+  <p align="center">
+    <a href="https://github.com/WhySeriousKaif">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Engineer;System+Design;Generative+AI;Full-Stack+Engineer" alt="Typing Animation" />
+    </a>
+  </p>
 
+  <p>Dual CS Student @ <b>Scaler School of Technology</b> & <b>BITS Pilani</b> | Bengaluru, India 📍</p>
+  
   <p>
     <a href="https://whyseriouskaif.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
@@ -38,11 +44,11 @@
 
 ---
 
-## 🌐 Live Portfolio Website
+## 🌐 Live Portfolio
 
-Explore my interactive developer portfolio featuring terminal setups, tech stack orbits, and live project demos:
+Check out my interactive developer portfolio with live video demos, terminal setups, and dark mode grid animations:
 
-👉 **[https://whyseriouskaif.vercel.app/](https://whyseriouskaif.vercel.app/)**
+👉 **[whyseriouskaif.vercel.app](https://whyseriouskaif.vercel.app/)**
 
 ---
 
@@ -57,7 +63,7 @@ Explore my interactive developer portfolio featuring terminal setups, tech stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Backend
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -97,7 +103,7 @@ Explore my interactive developer portfolio featuring terminal setups, tech stack
           <img src="https://img.shields.io/badge/Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
         <p><strong>React • Node.js • Neo4j • RAG • OpenAI</strong></p>
-        <p align="left">Legal contract intelligence platform that ingests PDFs/DOCX, extracts critical clauses, scores risk matrices, and enables cached RAG chat walkthroughs with source citations.</p>
+        <p align="left">Legal document intelligence platform that ingests contract PDFs/DOCX, extracts critical clauses, scores risk matrices, and enables cached RAG conversation walkthroughs with source citations.</p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -110,7 +116,7 @@ Explore my interactive developer portfolio featuring terminal setups, tech stack
           <img src="https://img.shields.io/badge/Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
         <p><strong>React • Node.js • Gemini AI • Vapi • Inngest</strong></p>
-        <p align="left">AI Mock Interview SaaS with real-time conversational voice sessions, in-browser Monaco code execution sandbox, and background candidate evaluation jobs.</p>
+        <p align="left">AI Mock Interview SaaS with real-time conversational voice sessions, in-browser Monaco code execution sandbox, and automated candidate evaluation feedback jobs.</p>
       </div>
     </td>
   </tr>
@@ -125,7 +131,7 @@ Explore my interactive developer portfolio featuring terminal setups, tech stack
           <img src="https://img.shields.io/badge/Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
         <p><strong>Java 17 • Spring Boot 3 • MySQL • Docker • JWT</strong></p>
-        <p align="left">Multi-tenant retail checkout & inventory SaaS API featuring role-based controls for 4 user roles, multi-store transactional updates, and Stripe/Razorpay webhooks.</p>
+        <p align="left">Multi-tenant retail checkout & inventory SaaS API featuring role-based controls for 4 user types, multi-store transactional updates, and Stripe/Razorpay webhooks.</p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -138,7 +144,7 @@ Explore my interactive developer portfolio featuring terminal setups, tech stack
           <img src="https://img.shields.io/badge/Repo-121011?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
         <p><strong>React 19 • Express • MongoDB • Stripe • Redux</strong></p>
-        <p align="left">Production Peer-to-Peer equipment rental marketplace with Stripe checkout, Cash-on-Pickup validation, safety PIN handover state machines, and owner analytics.</p>
+        <p align="left">Production Peer-to-Peer equipment & gear rental marketplace with Stripe payments, Cash-on-Pickup validation, safety PIN handover state machines, and owner analytics.</p>
       </div>
     </td>
   </tr>
@@ -156,7 +162,7 @@ Explore my interactive developer portfolio featuring terminal setups, tech stack
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=WhySeriousKaif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhySeriousKaif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -171,7 +177,7 @@ Explore my interactive developer portfolio featuring terminal setups, tech stack
 
 - 📚 Architecting **Microservices** and high-concurrency **Distributed Systems**
 - ⚡ Deep-diving into **Graph Databases (Neo4j)** & **Vector Embeddings Cache Layers**
-- ☁️ Containerizing workloads with **Docker** and orchestrating background jobs using **Inngest**
+- ☁️ Containerizing cloud workloads using **Docker** and automated workflows with **Inngest**
 - 📈 Mastering **Data Structures & Algorithms** (250+ LeetCode problems solved)
 
 ---
