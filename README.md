@@ -155,13 +155,6 @@ Check out my interactive developer portfolio with live video demos, terminal set
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WhySeriousKaif&show_icons=true&theme=tokyonight&hide_border=true" alt="Kaif's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WhySeriousKaif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhySeriousKaif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
